@@ -14,7 +14,7 @@ function revelar() {
         document.getElementById("Nome"),
         document.getElementById("Data_Nas"),
         document.getElementById("Alutra"),
-        document.getElementById("Posição")
+        document.getElementById("Posição ")
     ];
 
     elementosTexto.forEach(function (el) {
