@@ -2,7 +2,6 @@
 function revelar() {
     const imagem = document.querySelector(".card-img-top");
     imagem.src = "img/_vinicius_junior.png";
-    imagem.alt = "Foto de Vinícius Júnior";
 
     document.getElementById("Nome").textContent = "Vinícius José Paixão de Oliveira Júnior";
     document.getElementById("Rank").textContent = "9,5";
